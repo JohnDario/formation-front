@@ -90,3 +90,4 @@ console.log(monDernierElement);
 // -- La même chose est possible avec le premier élément en utilisant la fonction shift();
 
 // -- NB: La fonction splice() vous permet de faire sortir un ou plsieurs éléments de votre tableau.
+

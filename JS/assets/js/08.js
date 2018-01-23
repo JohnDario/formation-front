@@ -125,7 +125,7 @@ if(monUtilisateurEstCorrect(emailUser,mdpUser)) {
     la combinaison mdpuser et mdp correspond.
 
     --> Dans cette condition, les 2 doivent OBLIGATOIREMENT
-    correspondre pour être valisées.
+    correspondre pour être validées.
     Ex: if(emailUser == email && mpdUser == mdp) {...}
 
     ##### L'opérateur OU : || ou OR #####
@@ -147,3 +147,4 @@ if(monUtilisateurEstCorrect(emailUser,mdpUser)) {
 
     Reviens à ecrire :
     if(monUtilisateurEstApprouve == false) {...}
+    */

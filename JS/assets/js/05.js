@@ -24,3 +24,4 @@ console.log(nb1);
 
 nb1 = 0;
 console.log(++nb1);
+

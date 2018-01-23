@@ -129,3 +129,4 @@ var maChaineDeCaractere = unNombre.toString();
 console.log(typeof unNombre);
 console.log(typeof maChaineDeCaractere);
 
+

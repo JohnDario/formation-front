@@ -37,3 +37,4 @@ function addition(nb1, nb2){
 }
 
 document.write("<p>" + addition(10, 5) + "</p>");
+
