@@ -85,4 +85,4 @@ document.body.appendChild(h1);
 a.style.color = "red";
 
  // -- Je veux que mon lien ne soit pas souligné
- a.style.textDecoration = "none";
+a.style.textDecoration = "none";
